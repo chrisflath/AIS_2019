@@ -1,0 +1,58 @@
+[LabApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[LabApp | INFO] Loading the validate_assignment nbgrader serverextension
+[LabApp | WARNING] JupyterLab server extension not enabled, manually loading...
+[LabApp | INFO] JupyterLab extension loaded from C:\Users\Chris\.julia\conda\3\lib\site-packages\jupyterlab
+[LabApp | INFO] JupyterLab application directory is C:\Users\Chris\.julia\conda\3\share\jupyter\lab
+[LabApp | INFO] Serving notebooks from local directory: C:\Users\Chris\Documents\Spaces\Lehre\01_Sommer\04_MPS\03_Vorlesung\2019\MPS_2019\notebooks
+[LabApp | INFO] The Jupyter Notebook is running at:
+[LabApp | INFO] http://localhost:8888/?token=8ed8cb6c6facc8930d21f584917dedcb9be71b350d7dbdae
+[LabApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[LabApp | CRITICAL] 
+    
+    To access the notebook, open this file in a browser:
+        file:///C:/Users/Chris/AppData/Roaming/jupyter/runtime/nbserver-21084-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=8ed8cb6c6facc8930d21f584917dedcb9be71b350d7dbdae
+[LabApp | WARNING] Could not determine jupyterlab build status without nodejs
+[LabApp | WARNING] 404 GET /api/contents/MPS_2019/notebooks/MPS_NB1_R_Introduction.ipynb?content=0&1560791800002 (::1): No such file or directory: MPS_2019/notebooks/MPS_NB1_R_Introduction.ipynb
+[LabApp | WARNING] No such file or directory: MPS_2019/notebooks/MPS_NB1_R_Introduction.ipynb
+[LabApp | WARNING] 404 GET /api/contents/MPS_2019/notebooks/MPS_NB1_R_Introduction.ipynb?content=0&1560791800002 (::1) 2.99ms referer=http://localhost:8888/lab
+[LabApp | WARNING] 404 GET /api/contents/MPS_2019/notebooks?1560791800002 (::1): No such file or directory: MPS_2019/notebooks
+[LabApp | WARNING] No such file or directory: MPS_2019/notebooks
+[LabApp | WARNING] 404 GET /api/contents/MPS_2019/notebooks?1560791800002 (::1) 1.00ms referer=http://localhost:8888/lab
+[LabApp | WARNING] Notebook MPS_NB2_R_Visualization.ipynb is not trusted
+[LabApp | INFO] Kernel started: cc3c6339-538e-4a62-b585-6ad7e3007b23
+[LabApp | INFO] Adapting to protocol v5.0 for kernel cc3c6339-538e-4a62-b585-6ad7e3007b23
+[LabApp | INFO] Adapting to protocol v5.0 for kernel cc3c6339-538e-4a62-b585-6ad7e3007b23
+[LabApp | INFO] Saving file at /MPS_NB2_R_Visualization.ipynb
+[LabApp | WARNING] Notebook MPS_NB2_R_Visualization.ipynb is not trusted
+[LabApp | INFO] Saving file at /MPS_NB2_R_Visualization.ipynb
+[LabApp | WARNING] Notebook MPS_NB2_R_Visualization.ipynb is not trusted
+[LabApp | INFO] Saving file at /MPS_NB2_R_Visualization.ipynb
+[LabApp | WARNING] Notebook MPS_NB2_R_Visualization.ipynb is not trusted
+[LabApp | INFO] Saving file at /MPS_NB2_R_Visualization.ipynb
+[LabApp | WARNING] Notebook MPS_NB2_R_Visualization.ipynb is not trusted
+[LabApp | INFO] Saving file at /MPS_NB2_R_Visualization.ipynb
+[LabApp | WARNING] Notebook MPS_NB2_R_Visualization.ipynb is not trusted
+[LabApp | INFO] Saving file at /MPS_NB2_R_Visualization.ipynb
+[LabApp | WARNING] Notebook MPS_NB2_R_Visualization.ipynb is not trusted
+[LabApp | INFO] Saving file at /MPS_NB2_R_Visualization.ipynb
+[LabApp | WARNING] Notebook MPS_NB2_R_Visualization.ipynb is not trusted
+[LabApp | INFO] Saving file at /MPS_NB2_R_Visualization.ipynb
+[LabApp | WARNING] Notebook MPS_NB2_R_Visualization.ipynb is not trusted
+[LabApp | INFO] Saving file at /MPS_NB2_R_Visualization.ipynb
+[LabApp | WARNING] Notebook MPS_NB2_R_Visualization.ipynb is not trusted
+[LabApp | INFO] Saving file at /MPS_NB2_R_Visualization.ipynb
+[LabApp | WARNING] Notebook MPS_NB2_R_Visualization.ipynb is not trusted
+[LabApp | INFO] Saving file at /MPS_NB2_R_Visualization.ipynb
+[LabApp | INFO] Saving file at /MPS_NB2_R_Visualization.ipynb
+[LabApp | INFO] Starting buffering for cc3c6339-538e-4a62-b585-6ad7e3007b23:6c983637-1b17-4cd5-b6e4-b4262aba05ae
+[LabApp | WARNING] Could not determine jupyterlab build status without nodejs
+[LabApp | INFO] Adapting to protocol v5.0 for kernel cc3c6339-538e-4a62-b585-6ad7e3007b23
+[LabApp | INFO] Adapting to protocol v5.0 for kernel cc3c6339-538e-4a62-b585-6ad7e3007b23
+[LabApp | INFO] Saving file at /MPS_NB2_R_Visualization.ipynb
+[LabApp | INFO] Saving file at /MPS_NB2_R_Visualization.ipynb
+[LabApp | INFO] Saving file at /MPS_NB2_R_Visualization.ipynb
+[LabApp | INFO] Saving file at /MPS_NB2_R_Visualization.ipynb
+[LabApp | INFO] Saving file at /MPS_NB2_R_Visualization.ipynb
+[LabApp | INFO] Saving file at /MPS_NB2_R_Visualization.ipynb
