@@ -56,3 +56,59 @@
 [LabApp | INFO] Saving file at /MPS_NB2_R_Visualization.ipynb
 [LabApp | INFO] Saving file at /MPS_NB2_R_Visualization.ipynb
 [LabApp | INFO] Saving file at /MPS_NB2_R_Visualization.ipynb
+[LabApp | INFO] Saving file at /MPS_NB2_R_Visualization.ipynb
+[LabApp | INFO] Saving file at /MPS_NB2_R_Visualization.ipynb
+[LabApp | INFO] Saving file at /MPS_NB2_R_Visualization.ipynb
+[LabApp | INFO] Saving file at /MPS_NB2_R_Visualization.ipynb
+[LabApp | INFO] Starting buffering for cc3c6339-538e-4a62-b585-6ad7e3007b23:5b2df106-27f8-4540-8ffd-10ec35a2c18d
+[LabApp | INFO] Kernel restarted: cc3c6339-538e-4a62-b585-6ad7e3007b23
+[LabApp | INFO] 302 GET /lab (::1) 1.00ms
+[LabApp | WARNING] 401 POST /login?next=%2Flab (::1) 1.99ms referer=http://localhost:8888/login?next=%2Flab
+[LabApp | WARNING] Timeout waiting for kernel_info_reply: cc3c6339-538e-4a62-b585-6ad7e3007b23
+[LabApp | ERROR] Exception restarting kernel
+    Traceback (most recent call last):
+      File "C:\Users\Chris\.julia\conda\3\lib\site-packages\notebook\services\kernels\handlers.py", line 85, in post
+        yield gen.maybe_future(km.restart_kernel(kernel_id))
+      File "C:\Users\Chris\.julia\conda\3\lib\site-packages\tornado\gen.py", line 1133, in run
+        value = future.result()
+    tornado.util.TimeoutError: Timeout waiting for restart
+[LabApp | ERROR] {
+      "Origin": "http://localhost:8888",
+      "Referer": "http://localhost:8888/lab",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/17.17134",
+      "Authorization": "token 8ed8cb6c6facc8930d21f584917dedcb9be71b350d7dbdae",
+      "Content-Type": "application/json",
+      "Accept": "*/*",
+      "Accept-Language": "de-DE,de;q=0.8,en-US;q=0.5,en;q=0.3",
+      "Accept-Encoding": "gzip, deflate",
+      "Host": "localhost:8888",
+      "Content-Length": "0",
+      "Connection": "Keep-Alive",
+      "Cache-Control": "no-cache",
+      "Cookie": "_xsrf=2|8d332698|812c7ae7f20af5252f42282b040aef3a|1559764157; username-localhost-8888=\"2|1:0|10:1560794810|23:username-localhost-8888|44:MzhmZWEzNGZiNTQ5NDk0MGI5OWZlMTcyNzdhMDA3ZDc=|adfc6644c554a940f071f6708cd82428981b15bf3257ef37ecd596afdc4d84e5\""
+    }
+[LabApp | ERROR] 500 POST /api/kernels/cc3c6339-538e-4a62-b585-6ad7e3007b23/restart?1560794817153 (::1) 139615.35ms referer=http://localhost:8888/lab
+[LabApp | INFO] 302 GET / (::1) 0.00ms
+[LabApp | INFO] Interrupted...
+[LabApp | INFO] Shutting down 1 kernel
+[LabApp | INFO] Kernel shutdown: cc3c6339-538e-4a62-b585-6ad7e3007b23
+[LabApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[LabApp | INFO] Loading the validate_assignment nbgrader serverextension
+[LabApp | WARNING] JupyterLab server extension not enabled, manually loading...
+[LabApp | INFO] JupyterLab extension loaded from C:\Users\Chris\.julia\conda\3\lib\site-packages\jupyterlab
+[LabApp | INFO] JupyterLab application directory is C:\Users\Chris\.julia\conda\3\share\jupyter\lab
+[LabApp | INFO] Serving notebooks from local directory: C:\Users\Chris\Documents\Spaces\Lehre\01_Sommer\04_MPS\03_Vorlesung\2019\MPS_2019\notebooks
+[LabApp | INFO] The Jupyter Notebook is running at:
+[LabApp | INFO] http://localhost:8888/?token=4a7c04e50b65a33914b29330c9a0a5f3b6b75568b679013d
+[LabApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[LabApp | CRITICAL] 
+    
+    To access the notebook, open this file in a browser:
+        file:///C:/Users/Chris/AppData/Roaming/jupyter/runtime/nbserver-17496-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=4a7c04e50b65a33914b29330c9a0a5f3b6b75568b679013d
+[LabApp | WARNING] Could not determine jupyterlab build status without nodejs
+[LabApp | INFO] Kernel started: 4d2eb78d-2ecf-4d09-916b-ab34c063d0c5
+[LabApp | INFO] Adapting to protocol v5.0 for kernel 4d2eb78d-2ecf-4d09-916b-ab34c063d0c5
+[LabApp | INFO] Adapting to protocol v5.0 for kernel 4d2eb78d-2ecf-4d09-916b-ab34c063d0c5
+[LabApp | INFO] Adapting to protocol v5.0 for kernel 4d2eb78d-2ecf-4d09-916b-ab34c063d0c5
