@@ -1,0 +1,95 @@
+Supplier ;Order No.;Item No.;Item Description;Item Cost;Quantity;Cost per order;A/P Terms (Months);Order Date;Arrival Date
+Alum Sheeting;A0223;4224;Bolt-nut package;3.95;4500;17775;30;15.10.2011;20.10.2011
+Alum Sheeting;A0433;5417;Control Panel;255;500;127500;30;20.10.2011;27.10.2011
+Alum Sheeting;A0443;1243;Airframe fasteners;4.25;10000;42500;30;08.08.2011;14.08.2011
+Alum Sheeting;A0446;5417;Control Panel;255;406;103530;30;01.09.2011;10.09.2011
+Alum Sheeting;B0247;1243;Airframe fasteners;4.25;9000;38250;30;05.09.2011;12.09.2011
+Alum Sheeting;B0447;5634;Side Panel;185;150;27750;30;25.10.2011;03.11.2011
+Alum Sheeting;B0479;5634;Side Panel;185;140;25900;30;29.10.2011;04.11.2011
+Alum Sheeting;B0567;1243;Airframe fasteners;4.25;10500;44625;30;10.10.2011;17.10.2011
+Durrable Products;A1234;9399;Gasket;3.65;1250;4562.5;45;01.10.2011;06.10.2011
+Durrable Products;A1235;9399;Gasket;3.65;1450;5292.5;45;03.10.2011;08.10.2011
+Durrable Products;A1344;5454;Control Panel;220;550;121000;45;09.10.2011;14.10.2011
+Durrable Products;A1345;9399;Gasket;3.65;1470;5365.5;45;07.10.2011;12.10.2011
+Durrable Products;A1346;9399;Gasket;3.65;1985;7245.25;45;05.10.2011;11.10.2011
+Durrable Products;A1456;5454;Control Panel;220;500;110000;45;15.10.2011;20.10.2011
+Durrable Products;A1457;4569;Bolt-nut package;3.5;3900;13650;45;05.10.2011;10.10.2011
+Durrable Products;A1567;1369;Airframe fasteners;4.2;15000;63000;45;25.09.2011;30.09.2011
+Durrable Products;B1234;7258;Pressure Gauge;90;100;9000;45;25.08.2011;28.08.2011
+Durrable Products;B1345;7258;Pressure Gauge;90;120;10800;45;05.09.2011;09.09.2011
+Durrable Products;B1468;1369;Airframe fasteners;4.2;14000;58800;45;27.09.2011;03.10.2011
+Durrable Products;B1589;5275;Shielded Cable/ft.;1;25000;25000;45;25.10.2011;30.10.2011
+Durrable Products;B1666;1369;Airframe fasteners;4.2;10000;42000;45;29.09.2011;04.10.2011
+Fast-Tie Aerospace;B2333;6321;O-Ring;2.45;1300;3185;30;25.08.2011;04.09.2011
+Fast-Tie Aerospace;B2345;6321;O-Ring;2.45;1200;2940;30;12.09.2011;23.09.2011
+Fast-Tie Aerospace;B2356;6321;O-Ring;2.45;2500;6125;30;25.09.2011;04.10.2011
+Fast-Tie Aerospace;B2367;6321;O-Ring;2.45;1250;3062.5;30;12.10.2011;21.10.2011
+Fast-Tie Aerospace;B2378;6321;O-Ring;2.45;1500;3675;30;25.10.2011;02.11.2011
+Fast-Tie Aerospace;B2498;5689;Side Panel;175;150;26250;30;01.11.2011;09.11.2011
+Fast-Tie Aerospace;B2499;7268;Pressure Gauge;95;110;10450;30;01.11.2011;12.11.2011
+Fast-Tie Aerospace;B2511;7268;Pressure Gauge;95;105;9975;30;05.11.2011;16.11.2011
+Fast-Tie Aerospace;B2519;5462;Shielded Cable/ft.;1.05;22500;23625;30;20.08.2011;26.08.2011
+Fast-Tie Aerospace;B2528;5689;Side Panel;175;175;30625;30;05.11.2011;15.11.2011
+Fast-Tie Aerospace;B2537;5462;Shielded Cable/ft.;1.05;21500;22575;30;15.08.2011;22.08.2011
+Fast-Tie Aerospace;B2566;5462;Shielded Cable/ft.;1.05;23000;24150;30;10.08.2011;15.08.2011
+Fast-Tie Aerospace;C0234;5166;Electrical Connector;1.25;5650;7062.5;30;01.10.2011;06.10.2011
+Fast-Tie Aerospace;C0423;5689;Side Panel;175;155;27125;30;25.10.2011;03.11.2011
+Fast-Tie Aerospace;C0433;5462;Shielded Cable/ft.;1.05;22500;23625;30;25.08.2011;02.09.2011
+Hulkey Fasteners;C1212;1122;Airframe fasteners;4.25;19500;82875;30;05.08.2011;13.08.2011
+Hulkey Fasteners;C1313;3166;Electrical Connector;1.25;5600;7000;30;25.08.2011;29.08.2011
+Hulkey Fasteners;C2323;1122;Airframe fasteners;4.25;15500;65875;30;04.09.2011;12.09.2011
+Hulkey Fasteners;C2929;3166;Electrical Connector;1.25;5500;6875;30;01.09.2011;06.09.2011
+Hulkey Fasteners;C3232;1122;Airframe fasteners;4.25;18000;76500;30;01.10.2011;08.10.2011
+Hulkey Fasteners;C3434;1122;Airframe fasteners;4.25;12500;53125;30;05.09.2011;11.09.2011
+Hulkey Fasteners;C4545;1122;Airframe fasteners;4.25;15000;63750;30;08.09.2011;15.09.2011
+Hulkey Fasteners;C5656;1122;Airframe fasteners;4.25;14500;61625;30;28.09.2011;03.10.2011
+Hulkey Fasteners;C6765;5066;Shielded Cable/ft.;0.95;25000;23750;30;05.09.2011;12.09.2011
+Hulkey Fasteners;C7875;3166;Electrical Connector;1.25;5650;7062.5;30;05.09.2011;10.09.2011
+Hulkey Fasteners;C8854;3166;Electrical Connector;1.25;5425;6781.25;30;10.09.2011;15.09.2011
+Hulkey Fasteners;C8989;9966;Hatch Decal;0.75;500;375;30;25.08.2011;31.08.2011
+Hulkey Fasteners;D1212;5066;Shielded Cable/ft.;0.95;17500;16625;30;15.09.2011;22.09.2011
+Hulkey Fasteners;D2121;1122;Airframe fasteners;4.25;17500;74375;30;25.10.2011;03.11.2011
+Hulkey Fasteners;D3232;1122;Airframe fasteners;4.25;17000;72250;30;11.10.2011;19.10.2011
+Manley Valve;A2345;6431;O-Ring;2.85;1250;3562.5;30;05.10.2011;10.10.2011
+Manley Valve;A2356;7258;Pressure Gauge;100.5;95;9547.5;30;20.10.2011;29.10.2011
+Manley Valve;A2367;9977;Panel Decal;1;525;525;30;01.11.2011;07.11.2011
+Manley Valve;A2378;6431;O-Ring;2.85;1350;3847.5;30;01.10.2011;07.10.2011
+Manley Valve;A9821;6431;O-Ring;2.85;1300;3705;30;25.09.2011;01.10.2011
+Manley Valve;A9842;7258;Pressure Gauge;100.5;100;10050;30;15.10.2011;24.10.2011
+Manley Valve;A9865;9967;Hatch Decal;0.85;550;467.5;30;05.11.2011;11.11.2011
+Manley Valve;A9876;9955;Door Decal;0.55;150;82.5;30;01.11.2011;06.11.2011
+Manley Valve;C1111;9955;Door Decal;0.55;125;68.75;30;05.11.2011;10.11.2011
+Manley Valve;C2222;7258;Pressure Gauge;100.5;90;9045;30;10.10.2011;17.10.2011
+Manley Valve;C3333;8148;Machined Valve;655.5;125;81937.5;30;10.10.2011;17.10.2011
+Pylon Accessories;A9999;6433;O-Ring;2.95;1500;4425;15;01.10.2011;10.10.2011
+Pylon Accessories;B1111;9764;Gasket;3.75;1980;7425;15;20.09.2011;29.09.2011
+Pylon Accessories;C2211;9764;Gasket;3.75;1850;6937.5;15;25.09.2011;05.10.2011
+Pylon Accessories;D1111;9764;Gasket;3.75;1800;6750;15;28.09.2011;05.10.2011
+Pylon Accessories;D3333;9764;Gasket;3.75;1750;6562.5;15;20.09.2011;25.09.2011
+Spacetime Technologies;A0111;6489;O-Ring;3;900;2700;25;10.10.2011;18.10.2011
+Spacetime Technologies;A0533;9752;Gasket;4.05;1500;6075;25;20.09.2011;25.09.2011
+Spacetime Technologies;A0555;6489;O-Ring;3;1100;3300;25;05.10.2011;10.10.2011
+Spacetime Technologies;A0622;9752;Gasket;4.05;1550;6277.5;25;25.09.2011;05.10.2011
+Spacetime Technologies;A0666;5125;Shielded Cable/ft.;1.15;15000;17250;25;01.10.2011;15.10.2011
+Spacetime Technologies;A0777;6489;O-Ring;3;1050;3150;25;29.10.2011;10.11.2011
+Spacetime Technologies;A1222;4111;Bolt-nut package;3.55;4200;14910;25;15.09.2011;15.10.2011
+Spacetime Technologies;A1444;4111;Bolt-nut package;3.55;4250;15087.5;25;20.09.2011;10.10.2011
+Spacetime Technologies;A1445;4111;Bolt-nut package;3.55;4200;14910;25;25.09.2011;25.10.2011
+Spacetime Technologies;A1449;4111;Bolt-nut package;3.55;4600;16330;25;05.10.2011;19.10.2011
+Spacetime Technologies;A3467;4111;Bolt-nut package;3.55;4800;17040;25;05.09.2011;20.09.2011
+Spacetime Technologies;A5689;4111;Bolt-nut package;3.55;4585;16276.75;25;10.09.2011;30.09.2011
+Steelpin Inc.;A0115;5319;Shielded Cable/ft.;1.1;17500;19250;30;20.08.2011;31.08.2011
+Steelpin Inc.;A0123;4312;Bolt-nut package;3.75;4250;15937.5;30;25.08.2011;01.09.2011
+Steelpin Inc.;A0204;5319;Shielded Cable/ft.;1.1;16500;18150;30;15.09.2011;05.10.2011
+Steelpin Inc.;A0205;5677;Side Panel;195;120;23400;30;02.11.2011;13.11.2011
+Steelpin Inc.;A0207;4312;Bolt-nut package;3.75;4200;15750;30;01.09.2011;10.09.2011
+Steelpin Inc.;B0445;4312;Bolt-nut package;3.75;4150;15562.5;30;03.09.2011;11.09.2011
+Steelpin Inc.;B3022;5677;Side Panel;195;110;21450;30;05.11.2011;17.11.2011
+Steelpin Inc.;B3041;5234;Electrical Connector;1.65;4500;7425;30;28.08.2011;05.09.2011
+Steelpin Inc.;B3042;5234;Electrical Connector;1.65;4750;7837.5;30;05.09.2011;13.09.2011
+Steelpin Inc.;B3111;5234;Electrical Connector;1.65;4850;8002.5;30;02.09.2011;11.09.2011
+Steelpin Inc.;B3222;8008;Machined Valve;645;150;96750;30;15.10.2011;26.10.2011
+Steelpin Inc.;B3333;8008;Machined Valve;645;100;64500;30;10.10.2011;21.10.2011
+Steelpin Inc.;C0456;5677;Side Panel;195;130;25350;30;28.10.2011;07.11.2011
+Steelpin Inc.;C0467;8008;Machined Valve;645;120;77400;30;28.10.2011;04.11.2011
+Steelpin Inc.;C0589;5319;Shielded Cable/ft.;1.1;18100;19910;30;25.08.2011;05.09.2011
