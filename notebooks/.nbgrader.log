@@ -112,3 +112,7 @@
 [LabApp | INFO] Adapting to protocol v5.0 for kernel 4d2eb78d-2ecf-4d09-916b-ab34c063d0c5
 [LabApp | INFO] Adapting to protocol v5.0 for kernel 4d2eb78d-2ecf-4d09-916b-ab34c063d0c5
 [LabApp | INFO] Adapting to protocol v5.0 for kernel 4d2eb78d-2ecf-4d09-916b-ab34c063d0c5
+[LabApp | INFO] Starting buffering for 4d2eb78d-2ecf-4d09-916b-ab34c063d0c5:a0eaad4a-b324-403d-862e-c1be93113e75
+[LabApp | INFO] Interrupted...
+[LabApp | INFO] Shutting down 1 kernel
+[LabApp | INFO] Kernel shutdown: 4d2eb78d-2ecf-4d09-916b-ab34c063d0c5
