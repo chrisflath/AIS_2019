@@ -116,3 +116,29 @@
 [LabApp | INFO] Interrupted...
 [LabApp | INFO] Shutting down 1 kernel
 [LabApp | INFO] Kernel shutdown: 4d2eb78d-2ecf-4d09-916b-ab34c063d0c5
+[LabApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[LabApp | INFO] Loading the validate_assignment nbgrader serverextension
+[LabApp | WARNING] JupyterLab server extension not enabled, manually loading...
+[LabApp | INFO] JupyterLab extension loaded from C:\Users\Chris\.julia\conda\3\lib\site-packages\jupyterlab
+[LabApp | INFO] JupyterLab application directory is C:\Users\Chris\.julia\conda\3\share\jupyter\lab
+[LabApp | INFO] Serving notebooks from local directory: C:\Users\Chris\Documents\Spaces\Lehre\01_Sommer\04_MPS\03_Vorlesung\2019\MPS_2019\notebooks
+[LabApp | INFO] The Jupyter Notebook is running at:
+[LabApp | INFO] http://localhost:8888/?token=043ef675d2832da7ffaaed9c6c50e49599c8e64d0c8e8445
+[LabApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[LabApp | CRITICAL] 
+    
+    To access the notebook, open this file in a browser:
+        file:///C:/Users/Chris/AppData/Roaming/jupyter/runtime/nbserver-7424-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=043ef675d2832da7ffaaed9c6c50e49599c8e64d0c8e8445
+[LabApp | WARNING] Could not determine jupyterlab build status without nodejs
+[LabApp | WARNING] 404 GET /api/contents/Untitled.ipynb?content=0&1561621937547 (::1): No such file or directory: Untitled.ipynb
+[LabApp | WARNING] No such file or directory: Untitled.ipynb
+[LabApp | WARNING] 404 GET /api/contents/Untitled.ipynb?content=0&1561621937547 (::1) 5.98ms referer=http://localhost:8888/lab
+[LabApp | INFO] Creating new notebook in /
+[LabApp | INFO] Kernel started: 632b08d4-26a0-4efc-8b24-ac312f339948
+[LabApp | INFO] Adapting to protocol v5.0 for kernel 632b08d4-26a0-4efc-8b24-ac312f339948
+[LabApp | INFO] Adapting to protocol v5.0 for kernel 632b08d4-26a0-4efc-8b24-ac312f339948
+[LabApp | INFO] Saving file at /MPS_NB3_R_Descriptives.ipynb
+[LabApp | INFO] Saving file at /MPS_NB3_R_Descriptives.ipynb
+[LabApp | INFO] Starting buffering for 632b08d4-26a0-4efc-8b24-ac312f339948:b3849bd2-1007-42f0-bae8-fdaa60896975

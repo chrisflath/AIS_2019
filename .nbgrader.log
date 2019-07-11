@@ -1,0 +1,25 @@
+[LabApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[LabApp | INFO] Loading the validate_assignment nbgrader serverextension
+[LabApp | WARNING] JupyterLab server extension not enabled, manually loading...
+[LabApp | INFO] JupyterLab extension loaded from C:\Users\Chris\.julia\conda\3\lib\site-packages\jupyterlab
+[LabApp | INFO] JupyterLab application directory is C:\Users\Chris\.julia\conda\3\share\jupyter\lab
+[LabApp | INFO] Serving notebooks from local directory: C:\Users\Chris\Documents\Spaces\Lehre\01_Sommer\04_MPS\03_Vorlesung\2019\MPS_2019
+[LabApp | INFO] The Jupyter Notebook is running at:
+[LabApp | INFO] http://localhost:8888/?token=95e34931b47f2c6eee1783de768b816605b9ada87b0b187b
+[LabApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[LabApp | CRITICAL] 
+    
+    To access the notebook, open this file in a browser:
+        file:///C:/Users/Chris/AppData/Roaming/jupyter/runtime/nbserver-10468-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=95e34931b47f2c6eee1783de768b816605b9ada87b0b187b
+[LabApp | WARNING] Could not determine jupyterlab build status without nodejs
+[LabApp | WARNING] 404 GET /api/contents/MPS_NB3_R_Descriptives.ipynb?content=0&1562830615720 (::1): No such file or directory: MPS_NB3_R_Descriptives.ipynb
+[LabApp | WARNING] No such file or directory: MPS_NB3_R_Descriptives.ipynb
+[LabApp | WARNING] 404 GET /api/contents/MPS_NB3_R_Descriptives.ipynb?content=0&1562830615720 (::1) 8.99ms referer=http://localhost:8888/lab
+[LabApp | INFO] Kernel started: 5221398b-b806-4157-8f59-f918731ace60
+[LabApp | INFO] Adapting to protocol v5.0 for kernel 5221398b-b806-4157-8f59-f918731ace60
+[LabApp | INFO] Adapting to protocol v5.0 for kernel 5221398b-b806-4157-8f59-f918731ace60
+[LabApp | INFO] Adapting to protocol v5.0 for kernel 5221398b-b806-4157-8f59-f918731ace60
+[LabApp | INFO] Saving file at /notebooks/MPS_NB2_R_Visualization.ipynb
+[LabApp | INFO] Saving file at /notebooks/MPS_NB2_R_Visualization.ipynb
